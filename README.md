@@ -18,3 +18,5 @@ test
 
 <table><tr><td bgcolor="green">sss</td></tr></table>
 
+
+<span style="color:red;">这是比font标签更好的方式。可以试试。</span>
